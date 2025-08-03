@@ -60,7 +60,7 @@ Dibangun dengan Python, desain antarmuka interaktif dan visualisasi loading/hasi
     ```
 3. **Jalankan Tools**
     ```bash
-    python brute_force.py
+    python brute-force.py
     ```
    > **Note:**  
    > File hasil otomatis terbuka dengan `xdg-open` (Linux) atau `open` (MacOS).
@@ -79,7 +79,7 @@ Dibangun dengan Python, desain antarmuka interaktif dan visualisasi loading/hasi
     ```
 3. **Jalankan Tools**
     ```bash
-    python brute_force.py
+    python brute-force.py
     ```
    > **Note:**  
    > File hasil (`hasil.txt`) akan otomatis terbuka menggunakan Notepad **dalam keadaan minimize** setelah brute force selesai.
@@ -103,7 +103,7 @@ Dibangun dengan Python, desain antarmuka interaktif dan visualisasi loading/hasi
     ```
 4. **Jalankan Tools**
     ```bash
-    python brute_force.py
+    python brute-force.py
     ```
     > **Note Termux:**  
     > Pada Termux, file hasil **tidak terbuka otomatis**. Silakan buka manual via:
