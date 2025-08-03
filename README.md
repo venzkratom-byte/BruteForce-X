@@ -11,7 +11,10 @@
   <img src="https://img.shields.io/github/last-commit/Anonymous-Int/BruteForce-X?style=flat-square">
   <img src="https://img.shields.io/github/issues/Anonymous-Int/BruteForce-X?style=flat-square">
 </p>
+---
 
+## 📄 Lisensi
+Software ini berlisensi MIT. Gunakan dengan penuh tanggung jawab.
 
 ---
 
@@ -146,6 +149,19 @@ Jangan lupa bintang ⭐ repo ini jika bermanfaat!
 
 Penggunaan BruteForce-X sepenuhnya tanggung jawab pengguna.  
 Penulis hanya menyediakan tools untuk edukasi, riset, dan pembelajaran keamanan siber!
+
+---
+
+## ❓ FAQ
+
+**Q: Apakah tools ini bisa brute force website asli?**  
+A: Tools ini **hanya simulasi edukasi**! Untuk pengetesan real, harus disesuaikan dengan sistem target, legalitas, dan risiko masing-masing.
+
+**Q: Bisa run di Android/Termux?**  
+A: Bisa, tapi tidak ada fitur auto open hasil.txt.
+
+**Q: Cara ganti email/password target?**  
+A: Edit variabel `HARDCODED_EMAIL` & `HARDCODED_PASSWORD` di script.
 
 ---
 
