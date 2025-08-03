@@ -1,9 +1,6 @@
-<p align="center>
 ##  Daftar Isi
-- [Deskripsi](#-deskripsi) - [Tampilan](#-tampilan) - [Fitur Utama](#-fitur-utama)
-- [Cara Install](#-cara-install) - [Konfigurasi](#-konfigurasi)
+- [Deskripsi](#-deskripsi) - [Tampilan](#-tampilan) - [Fitur Utama](#-fitur-utama) - [Cara Install](#-cara-install) - [Konfigurasi](#-konfigurasi)
 - [Contoh Output](#-contoh-output) - [Kontribusi](#-kontribusi) - [Disclaimer](#-disclaimer)
-</p>
 ---
 
 <h1 align="center"><b>BruteForce-X</b></h1>
