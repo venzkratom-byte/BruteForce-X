@@ -7,8 +7,8 @@ from rich import print, box
 from rich.panel import Panel
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, TimeElapsedColumn
 
-HARDCODED_EMAIL = "mojoofficial16@gmail.com"
-HARDCODED_PASSWORD = "mojo1212"
+HARDCODED_EMAIL = "mojoofficial16@gmail.com", "jonathanadvent766@gmail.com"
+HARDCODED_PASSWORD = "mojo1212", "jonathan1212022005"
 HASIL_FILE = "hasil.txt"
 WORDLIST_FILE = "wordlist.txt"
 
