@@ -1,12 +1,7 @@
 ##  Daftar Isi
-- [Deskripsi](#-deskripsi)
-- [Tampilan](#-tampilan)
-- [Fitur Utama](#-fitur-utama)
-- [Cara Install](#-cara-install)
-- [Konfigurasi](#-konfigurasi)
-- [Contoh Output](#-contoh-output)
-- [Kontribusi](#-kontribusi)
-- [Disclaimer](#-disclaimer)
+- [Deskripsi](#-deskripsi) - [Tampilan](#-tampilan) - [Fitur Utama](#-fitur-utama)
+- [Cara Install](#-cara-install) - [Konfigurasi](#-konfigurasi)
+- [Contoh Output](#-contoh-output) - [Kontribusi](#-kontribusi) - [Disclaimer](#-disclaimer)
 
 <p align="center">
   <img src="assets/screenshot-main.png" width="80%" alt="BruteForce-X Screenshot"/>
