@@ -1,11 +1,10 @@
+<p align="center>
 ##  Daftar Isi
 - [Deskripsi](#-deskripsi) - [Tampilan](#-tampilan) - [Fitur Utama](#-fitur-utama)
 - [Cara Install](#-cara-install) - [Konfigurasi](#-konfigurasi)
 - [Contoh Output](#-contoh-output) - [Kontribusi](#-kontribusi) - [Disclaimer](#-disclaimer)
-
-<p align="center">
-  <img src="assets/screenshot-main.png" width="80%" alt="BruteForce-X Screenshot"/>
 </p>
+---
 
 <h1 align="center"><b>BruteForce-X</b></h1>
 <p align="center">
