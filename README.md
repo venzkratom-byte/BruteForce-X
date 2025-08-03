@@ -1,8 +1,3 @@
-##  Daftar Isi
-- [Deskripsi](#-deskripsi) - [Tampilan](#-tampilan) - [Fitur Utama](#-fitur-utama) - [Cara Install](#-cara-install) - [Konfigurasi](#-konfigurasi)
-- [Contoh Output](#-contoh-output) - [Kontribusi](#-kontribusi) - [Disclaimer](#-disclaimer)
----
-
 <h1 align="center"><b>BruteForce-X</b></h1>
 <p align="center">
   <b>Advanced Multi Target Brute Force Tools</b><br>
