@@ -1,3 +1,13 @@
+##  Daftar Isi
+- [Deskripsi](#-deskripsi)
+- [Tampilan](#-tampilan)
+- [Fitur Utama](#-fitur-utama)
+- [Cara Install](#-cara-install)
+- [Konfigurasi](#-konfigurasi)
+- [Contoh Output](#-contoh-output)
+- [Kontribusi](#-kontribusi)
+- [Disclaimer](#-disclaimer)
+
 <p align="center">
   <img src="assets/screenshot-main.png" width="80%" alt="BruteForce-X Screenshot"/>
 </p>
@@ -19,23 +29,23 @@
 
 ---
 
-## ✨ Deskripsi
+##  Deskripsi
 
 **BruteForce-X** adalah tools brute force password generasi terbaru untuk simulasi dan edukasi keamanan siber.  
 Dibangun dengan Python, desain antarmuka interaktif dan visualisasi loading/hasil real-time, tools ini sangat cocok untuk _pentester_, pelajar, serta profesional keamanan IT.
 
-> ⚡ **PERINGATAN:**  
+>  **PERINGATAN:**  
 > Tools ini hanya untuk riset, edukasi, dan pengujian pada sistem milik sendiri. Segala penyalahgunaan adalah tanggung jawab pengguna.
 
 ---
 
-## 📸 Tampilan
+##  Tampilan
 
 ![Screenshot](screenshot-main.png)
 
 ---
 
-## 🚀 Fitur Utama
+##  Fitur Utama
 
 - [x] Multi Mode: Brute Force Target Email & Password Mirip
 - [x] Progress Loading Real-time (ala hacker)
@@ -47,7 +57,7 @@ Dibangun dengan Python, desain antarmuka interaktif dan visualisasi loading/hasi
 
 ---
 
-## 🛠️ Cara Install
+##  Cara Install
 
 ### **Untuk Linux / MacOS**
 1. **Clone Repo**
@@ -115,7 +125,7 @@ Dibangun dengan Python, desain antarmuka interaktif dan visualisasi loading/hasi
 
 ---
 
-## ⚙️ Konfigurasi
+## ⚙ Konfigurasi
 
 - **File Wordlist**:  
   Edit atau tambahkan password di file `wordlist.txt` sesuai kebutuhan simulasi.
@@ -124,11 +134,11 @@ Dibangun dengan Python, desain antarmuka interaktif dan visualisasi loading/hasi
 
 ---
 
-## 📝 Contoh Output
+##  Contoh Output
 
-╔══════════════════════════════════════════════════════════════════╗
+╔═══════════════════════════════════════════════════════════╗
 ║ BruteForce-X - Tools Brute Force Multi Target Tingkat Pro ║
-╚══════════════════════════════════════════════════════════════════╝
+╚═══════════════════════════════════════════════════════════╝
 
 [✔] AUTENTIKASI BERHASIL!
 
@@ -139,14 +149,14 @@ Hasil brute force telah tersimpan di file: hasil.txt
 
 ---
 
-## 👨‍💻 Kontribusi
+##  Kontribusi
 
 Pull Request, bug report, dan request fitur sangat diterima.  
 Jangan lupa bintang ⭐ repo ini jika bermanfaat!
 
 ---
 
-## 🛡️ Disclaimer
+##  Disclaimer
 
 Penggunaan BruteForce-X sepenuhnya tanggung jawab pengguna.  
 Penulis hanya menyediakan tools untuk edukasi, riset, dan pembelajaran keamanan siber!
