@@ -25,7 +25,7 @@ Dibangun dengan Python, desain antarmuka interaktif dan visualisasi loading/hasi
 
 ## 📸 Tampilan
 
-![Screenshot](assets/screenshot-main.png)
+![Screenshot](screenshot-main.png)
 
 ---
 
