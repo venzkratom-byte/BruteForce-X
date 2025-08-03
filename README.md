@@ -13,7 +13,7 @@
 </p>
 ---
 
-## 📄 Lisensi
+##  Lisensi
 Software ini berlisensi MIT. Gunakan dengan penuh tanggung jawab.
 
 ---
@@ -152,7 +152,7 @@ Penulis hanya menyediakan tools untuk edukasi, riset, dan pembelajaran keamanan 
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 **Q: Apakah tools ini bisa brute force website asli?**  
 A: Tools ini **hanya simulasi edukasi**! Untuk pengetesan real, harus disesuaikan dengan sistem target, legalitas, dan risiko masing-masing.
