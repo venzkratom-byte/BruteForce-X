@@ -10,6 +10,12 @@
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20Mac-green?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20with-Rich%20%26%20TQDM-purple?style=flat-square">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/Anonymous-Int/BruteForce-X?style=flat-square">
+  <img src="https://img.shields.io/github/issues/Anonymous-Int/BruteForce-X?style=flat-square">
+</p>
+
 
 ---
 
